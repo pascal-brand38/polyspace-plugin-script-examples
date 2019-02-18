@@ -1,4 +1,4 @@
-# Polyspace Access Script Examples
+# Polyspace Plugin Script Examples
 
 
 This git repository contains a number of script example that can be
